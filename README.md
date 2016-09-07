@@ -1,7 +1,10 @@
 perl-regex-common
 =================
 
-Description: Regexp::Common - Provide commonly requested regular expressions
+Description:
+
+Regexp::Common - Provide commonly requested regular expressions
 
 Required Packages:
-- perl>=5.10
+
++ perl>=5.10
